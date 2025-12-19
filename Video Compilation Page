@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Educational Video Resources</title>
+</head>
+<body>
+
+  <main>
+    <h1>Learning Web Development</h1>
+
+    <p>
+      Web development combines creativity and logic to build websites and applications that run on the internet.
+    </p>
+
+    <section>
+      <h2>HTML Basics</h2>
+      <p>
+        This video introduces the fundamental structure and elements of HTML used to build web pages.
+      </p>
+      <iframe
+        src="https://www.youtube.com/embed/pQN-pnXPaVg"
+        title="HTML Basics Tutorial"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>CSS Fundamentals</h2>
+      <p>
+        Learn how CSS is used to style and layout web pages for better visual presentation.
+      </p>
+      <iframe
+        src="https://www.youtube.com/embed/yfoY53QXEnI"
+        title="CSS Fundamentals Tutorial"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>JavaScript Introduction</h2>
+      <p>
+        This video explains how JavaScript adds interactivity and dynamic behavior to websites.
+      </p>
+      <iframe
+        src="https://www.youtube.com/embed/W6NZfCO5SIk"
+        title="JavaScript Introduction Tutorial"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+  </main>
+
+</body>
+</html>
