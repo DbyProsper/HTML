@@ -1,0 +1,43 @@
+RECIPE PAGE - HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Classic Pancakes</title>
+</head>
+<body>
+
+  <h1>Classic Pancakes</h1>
+
+  <p>
+    These classic pancakes are fluffy, easy to make, and perfect for a quick breakfast or brunch.
+  </p>
+
+  <h2>Ingredients</h2>
+
+  <ul>
+    <li>1 cup all-purpose flour</li>
+    <li>1 tablespoon sugar</li>
+    <li>1 teaspoon baking powder</li>
+    <li>1 cup milk</li>
+    <li>1 egg</li>
+  </ul>
+
+  <h2>Instructions</h2>
+
+  <ol>
+    <li>Mix the flour, sugar, and baking powder in a bowl.</li>
+    <li>Add the milk and egg, then whisk until smooth.</li>
+    <li>Heat a pan over medium heat and lightly grease it.</li>
+    <li>Pour batter into the pan and cook until bubbles form, then flip.</li>
+    <li>Cook until golden brown and serve warm.</li>
+  </ol>
+
+  <img 
+    src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" 
+    alt="A stack of freshly made pancakes on a plate"
+  >
+
+</body>
+</html>
